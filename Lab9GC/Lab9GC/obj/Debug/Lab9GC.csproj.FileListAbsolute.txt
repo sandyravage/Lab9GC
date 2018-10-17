@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\bin\Debug\Lab9GC.exe.config
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\bin\Debug\Lab9GC.exe
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\bin\Debug\Lab9GC.pdb
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\obj\Debug\Lab9GC.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\obj\Debug\Lab9GC.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\obj\Debug\Lab9GC.exe
+C:\Users\TEVERTS\source\repos\Lab9GC\Lab9GC\obj\Debug\Lab9GC.pdb
