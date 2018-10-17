@@ -152,7 +152,7 @@ namespace Lab9GC
         static void AddStudent()
         {
             Console.WriteLine("\nWould you like to add another student to the class? (\"y\" for yes, \"n\", to " +
-                "exit program, or \"s\" to ask about another student).");
+                "exit program, or \"s\" to return to students).");
             choice4 = "";
             choice4 = Console.ReadLine().ToString().ToLower();
 
