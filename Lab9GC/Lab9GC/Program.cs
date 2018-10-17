@@ -166,7 +166,7 @@ namespace Lab9GC
                 string favoritepass = Validation(Console.ReadLine());
                 Console.Write("\nPlease enter a favorite state bird: ");
                 string favoritebird = Validation(Console.ReadLine());
-                students.Add(StudentAdder(name, favoritefood, favoritepass, favoritebird));
+                students.Add(StudentAdder(name, favoritefood, favoritepass, favoritebird)); 
                 students.OrderBy(t => t.First().ToList());
                 AddStudent();
             }
@@ -192,7 +192,7 @@ namespace Lab9GC
         }
         static string Validation(string input)
         {
-            while(Regex.IsMatch(input,@"^[ ]+$"))
+            while(Regex.IsMatch(input,@"^[ ]+$") || string.IsNullOrEmpty(input))
             {
                 Console.WriteLine("\nInvalid input. Please try again.\n");
                 input = Console.ReadLine();
